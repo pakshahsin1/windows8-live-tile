@@ -22,7 +22,7 @@
   <ItemGroup>
     <AppxPackagedFile Include="c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2013-03-23T10:14:34.396</Modified>
+      <Modified>2013-03-23T16:32:15.424</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
@@ -51,11 +51,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\js\default.js">
       <PackagePath>js\default.js</PackagePath>
-      <Modified>2013-03-23T13:16:02.624</Modified>
+      <Modified>2013-03-23T16:09:37.274</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\css\default.css">
       <PackagePath>css\default.css</PackagePath>
-      <Modified>2012-07-26T06:30:08.000</Modified>
+      <Modified>2013-03-23T16:33:41.926</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>

@@ -37,7 +37,7 @@
             tileTextAttributes[0].appendChild(tileXml.createTextNode("Live Tile"));
             tileTextAttributes[1].appendChild(tileXml.createTextNode("windows8developersblog.blogspot.com"));
                 
-                // Append Image node and alternat text
+                // Append Image node and alternat text image size 310 X 150
             var tileImageAttributes = tileXml.getElementsByTagName("image");
             tileImageAttributes[0].setAttribute("src", "ms-appx:///images/widelogo.png");
             tileImageAttributes[0].setAttribute("alt", "Touch Currency Converter");
