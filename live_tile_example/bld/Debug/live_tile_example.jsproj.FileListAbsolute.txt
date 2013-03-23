@@ -1,0 +1,13 @@
+c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\bin\Debug\resources.pri
+c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\bin\Debug\AppxManifest.xml
+c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\bin\Debug\live_tile_example.build.appxrecipe
+c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\bld\Debug\priconfig.xml.intermediate
+c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\bld\Debug\layout.resfiles.intermediate
+c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\bld\Debug\resources.resfiles.intermediate
+c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\bld\Debug\pri.resfiles.intermediate
+c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\bld\Debug\priconfig.xml
+c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\bld\Debug\layout.resfiles
+c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\bld\Debug\resources.resfiles
+c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\bld\Debug\pri.resfiles
+c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\bld\Debug\LanguageQualifiers.txt
+c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\bld\Debug\ProjectArchitectures.txt

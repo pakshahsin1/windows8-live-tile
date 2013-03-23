@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SHAH</Machine>
+    <WindowsUser>Shahzad</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>682E40B9DD36F5C5244FF45DFCBD7BF70160B7E957C0CFAE954F546C706A1287</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>69bb9af5-8398-4d5e-9311-a67b0d458b0b_1.0.0.0_neutral__aep5tc5ybz3pg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>69bb9af5-8398-4d5e-9311-a67b0d458b0b_aep5tc5ybz3pg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>69bb9af5-8398-4d5e-9311-a67b0d458b0b</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Shahzad</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-23T11:02:44.648</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-03-23T10:14:34.396</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-08T10:33:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-08T10:27:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-23T16:04:17.046</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-08T10:32:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\images\widelogo.png">
+      <PackagePath>images\widelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-03-23T15:04:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-03-23T13:16:02.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-07-26T06:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\shahzad\documents\visual studio 2012\Projects\live_tile_example\live_tile_example\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-03-23T11:02:44.531</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.8514.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.8514.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
